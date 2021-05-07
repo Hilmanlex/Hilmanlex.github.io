@@ -1,19 +1,39 @@
-# What is a globally distributed software team?
+Table of contents:
 
-## Why should I distribute my team?
+- [What is a globally distributed software team?](##what-is-a-globally-distributed-software-team?)
 
-## Why shouldn't I distribute my team?
+- [Distributed working methods](##distributed-working-methods)
 
-# Distributed working methods
+  - [Distributed Agile & Scrum](###distributed-agile-&-scrum)
+  - [Navigating differences]()
+    - [Time](####time)
+    - [Culture](####Culture)
 
-## Distributed Agile & Scrum
+- [Tooling](##tooling)
 
-## Navigating time differences
+  - [Communication Tooling](###communication-tooling)
+  - [Technical Tooling](###technical-tooling)
 
-## Navigating cultural differences
+  
 
-# Tooling
+## What is a globally distributed software team?
 
-## Communication tooling
+### Why should I distribute my team?
 
-## Technical tooling
+### Why shouldn't I distribute my team?
+
+## Distributed working methods
+
+### Distributed Agile & Scrum
+
+### Navigating differences
+
+#### Time
+
+#### Culture
+
+## Tooling
+
+### Communication tooling
+
+### Technical tooling
