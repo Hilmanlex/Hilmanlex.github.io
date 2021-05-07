@@ -1,16 +1,12 @@
 Table of contents:
 
-- [What is a globally distributed software team?](##what-is-a-globally-distributed-software-team?)
-
+- [What is a globally distributed software team?](##what-is-a-globally-distributed-software-team)
 - [Distributed working methods](##distributed-working-methods)
-
-  - [Distributed Agile & Scrum](###distributed-agile-&-scrum)
-  - [Navigating differences]()
+  - [Distributed Agile and Scrum](###distributed-agile-and-scrum)
+  - [Navigating differences](###navigating-differences)
     - [Time](####time)
     - [Culture](####Culture)
-
 - [Tooling](##tooling)
-
   - [Communication Tooling](###communication-tooling)
   - [Technical Tooling](###technical-tooling)
 
