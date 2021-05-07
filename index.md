@@ -16,4 +16,4 @@
 
 ## Communication tooling
 
-## Techincal tooling
+## Technical tooling
