@@ -9,6 +9,7 @@ Table of contents:
 - [Tooling](#tooling)
   - [Communication Tooling](#communication-tooling)
   - [Technical Tooling](#technical-tooling)
+- [References](#references)
 
 ---  
 
@@ -33,3 +34,6 @@ Table of contents:
 ### Communication tooling
 
 ### Technical tooling
+
+## References
+
