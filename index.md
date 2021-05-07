@@ -1,3 +1,5 @@
+Welcome to our blog detailing how you can implement best practices to effectively work as distributed software development team!
+
 Table of contents:
 
 - [What is a globally distributed software team?](#what-is-a-globally-distributed-software-team)
