@@ -10,7 +10,7 @@ Table of contents:
   - [Communication Tooling](#communication-tooling)
   - [Technical Tooling](#technical-tooling)
 
-  
+---  
 
 ## What is a globally distributed software team?
 
