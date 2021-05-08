@@ -16,8 +16,9 @@ Table of contents:
 ---  
 
 ## What is a globally distributed software team?
-In ever growing IT industry companies for quite some time have embraced the practice if Globali Distributed Software Development. In essence it means developing software products through collaboration and combination of different teams or team members accross multiple physical locations as opposed to traditional co-located development.
+In ever growing IT industry companies for quite some time have embraced the practice if Globali Distributed Software Development. In essence it means developing software products through collaboration and combination of different teams or team members accross multiple physical locations as opposed to traditional co-located development. Due to ability of working remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarentee that it will be beneficial in the end (https://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf).
 
+_What else should be discussed here?_
 ### Why should I distribute my team?
 
 ### Why shouldn't I distribute my team?
