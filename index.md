@@ -20,6 +20,19 @@ In ever growing IT industry companies for quite some time have embraced the prac
 
 _What else should be discussed here?_
 ### Why should I distribute my team?
+You shouldn't. Or at least go to distributed development when you can not longer grow or sustain your company localy. Primarally there are several core reasons why you would want to go towards distributed development: 
+_Copy pasted from a paper https://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf, should be rephrased or restructured._
+<ol>
+<li>The business market proximity advantages
+including knowledge of customers and local
+conditions.</li>
+<li>Pressure to improve time-to-market by using timezone differences and having round-the clock
+development.</li>
+<li>Create a pool of globally available skilled resources
+to develop software in reduced cost [1].</li>
+<li>Distribution also minimizes the risk in case of
+natural catastrophes and other events [9].</li>
+</ol>
 
 ### Why shouldn't I distribute my team?
 
