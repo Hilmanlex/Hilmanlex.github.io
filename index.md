@@ -28,9 +28,9 @@ conditions.</li>
 <li>Pressure to improve time-to-market by using timezone differences and having round-the-clock
 development.</li>
 <li>Create a pool of globally available skilled resources
-to develop software in reduced cost [1].</li>
+to develop software in reduced cost.</li>
 <li>Distribution also minimizes the risk in case of
-natural catastrophes and other events [9].</li>
+natural catastrophes and other events.</li>
 </ol>
 
 While these benefits definitely look alluring one must also consider potential drawbacks and high initial investment costs reflected as monetary costs, time delays, and potential management overhead. As such, globally distributed development should be treated as a double-edged sword that can bring great benefits, but if it is mismanaged and done incorrectly it can not only add large communication and management overhead but can result in a steep increase in expenses with little revenue gain or overall benefit to the company. These dangers and potential solutions how to avoid them will be covered in the following sections.
