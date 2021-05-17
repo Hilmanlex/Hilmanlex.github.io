@@ -18,7 +18,7 @@ Table of contents:
 - [References](#references)
 
 ![](/images/stock_image.jpg)
-*[Image source](https://medium.com/serious-scrum/7-concrete-ways-to-improve-collaboration-in-remote-or-distributed-scrum-teams-7940fbaed52d)*
+*[Source](https://medium.com/serious-scrum/7-concrete-ways-to-improve-collaboration-in-remote-or-distributed-scrum-teams-7940fbaed52d)*
 
 ## What is a globally distributed software team?
 In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end[^4]. As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
@@ -71,7 +71,7 @@ When distributing your team, you often need to "distribute your workflows" as we
 This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^5].
 
 ![](/images/scrum.png)
-*Scrum framework [Image source](https://www.visual-paradigm.com/scrum/why-scrum-difficult-to-master/)*
+*Scrum framework [Source](https://www.visual-paradigm.com/scrum/why-scrum-difficult-to-master/)*
 
 Despite the huge improvements in technology over the recent decade, there is no more efficient or effective method of conveying information within a development team than face to face conversation[^6]. With this in mind, it is important that where possible your software team is able to meet face to face at least once. This allows the team to integrate, and feel a physical connection to the team, rather than segregated remotely, so the team can focus on providing value to the customers. 
 
