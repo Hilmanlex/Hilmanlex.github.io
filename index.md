@@ -91,7 +91,11 @@ When teams are located across the globe, time differences are inevitable. As a r
 
 **Follow the sun** is a workflow that is also used by some companies. This method means that teams are located across the globe such that there is always exactly one team working on a product at a given point in the day. The advantage is that product support is always available for the customer, and time to market theoretically can be reduced as progress is made at all times. However, a good hand off technique is required between the teams, otherwise progress will not be made as efficiently, as teams have to catch up each time a "shift" starts.
 
+Follow the sun development, although on paper sounds like a good system, in practice is very difficult to successfully acheive, due to the reliance on good hand offs. Generally, the best way at reducing the impact of time difference is to increase the overlap between the teams, such that meetings and communication that needs to be performed between teams, has enough time to do so. This can be maximised by outsourcing to countries that have a time zone that can maximise the overlap with the other teams.
+
 ### Culture
+
+Cultural differences are also very important to overcome in globally distributed software engineering. Different countries have vastly different cultures, which extends far into the work place. In order to reduce the effect of cultural differences, it helps to have open minded employees, who are willing to learn and are accepting of other cultures. It also helps to educate teams about the potential cultural differences, and by inviting teams to other offices, this helps expose the teams to other cultures.  
 
 # Tooling
 
