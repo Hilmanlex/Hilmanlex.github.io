@@ -17,7 +17,6 @@ Table of contents:
   - [Technical Tooling](#technical-tooling)
 - [References](#references)
 
----  
 ![](/images/stock_image.jpg)
 *[Image source](https://medium.com/serious-scrum/7-concrete-ways-to-improve-collaboration-in-remote-or-distributed-scrum-teams-7940fbaed52d)*
 
