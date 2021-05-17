@@ -7,7 +7,7 @@ Table of contents:
   - [Why shouldn't I distribute my team?](#why-shouldnt-i-distribute-my-team)
   - [On the decision making level](#on-the-decision-making-level)
 - [Distributed working methods](#distributed-working-methods)
-  - [Distributed Agile and Scrum](#distributed-scrum)
+  - [Distributed Agile and Scrum](#tips-for-distributed-scrum)
   - [Navigating differences](#navigating-differences)
     - [Time](#time)
     - [Culture](#culture)
@@ -64,9 +64,13 @@ While these partnership models should work in every enterprise, there is some di
 
 When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
-### Distributed Scrum
+### Tips for Distributed Scrum
 
-This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^5]
+This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^5].
+
+Despite the huge improvements in technology over the recent decade, there is no more efficient or effective method of conveying information within a development team than face to face conversation[^6]. With this in mind, it is important that where possible your software team is able to meet face to face at least once. This allows the team to integrate, and feel a physical connection to the team, rather than segregated remotely, so the team can focus on providing value to the customers. 
+
+Another big 
 
 ### Navigating differences
 
@@ -91,3 +95,5 @@ This section presumes some knowledge of Scrum, if you have not heard or ever use
 [^4]: Shrivastava, Suprika & Date, Hema. (2010). Distributed Agile Software Development: A Review. J Comput Sci Eng. 1.
 
 [^5]: [Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
+
+[^6]: [Agile Manifesto](https://agilemanifesto.org/principles.html)
