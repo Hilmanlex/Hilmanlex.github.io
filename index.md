@@ -90,4 +90,4 @@ This section presumes some knowledge of Scrum, if you have not heard or ever use
 
 [^4]: Shrivastava, Suprika & Date, Hema. (2010). Distributed Agile Software Development: A Review. J Comput Sci Eng. 1.
 
-[^5]: Scrum guide: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
+[^5]: [Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
