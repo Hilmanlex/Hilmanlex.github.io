@@ -64,7 +64,7 @@ While these partnership models should work in every enterprise, there is some di
 
 # Working as a distributed team
 
-When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
+When distributing your team, you often need to *distribute your workflows* as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
 ## Tips for Distributed Scrum
 
