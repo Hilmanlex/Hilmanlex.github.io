@@ -66,7 +66,7 @@ When distributing your team, you often need to "distribute your workflows" as we
 
 ### Distributed Scrum
 
-This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^1]
+This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^5]
 
 ### Navigating differences
 
@@ -80,10 +80,11 @@ This section presumes some knowledge of Scrum, if you have not heard or ever use
 
 ### Technical tooling
 
-[^1]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
 
 ## References
-- Kedia, Ben & Lahiri, Somnath. (2007). International outsourcing of services: A partnership model. Journal of International Management. 13. 22-37. 10.1016/j.intman.2006.09.006. 
-- Klimpke, Lars & Kramer, Tommi & Betz, Stefanie & Nordheimer, Khrystyna. (2011). Globally distributed software development in small and medium-sized enterprises in Germany: Reasons, locations, and obstacles. 19th European Conference on Information Systems, ECIS 2011. 
-- Linder, Jane & Cole, Martin & Jacobson, Alvin. (2002). Business transformation through outsourcing. Strategy & Leadership. 30. 23-28. 10.1108/10878570210435342.
-- Shrivastava, Suprika & Date, Hema. (2010). Distributed Agile Software Development: A Review. J Comput Sci Eng. 1.
+[^1]: Kedia, Ben & Lahiri, Somnath. (2007). International outsourcing of services: A partnership model. Journal of International Management. 13. 22-37. 10.1016/j.intman.2006.09.006. 
+[^2]: Klimpke, Lars & Kramer, Tommi & Betz, Stefanie & Nordheimer, Khrystyna. (2011). Globally distributed software development in small and medium-sized enterprises in Germany: Reasons, locations, and obstacles. 19th European Conference on Information Systems, ECIS 2011. 
+[^3]: Linder, Jane & Cole, Martin & Jacobson, Alvin. (2002). Business transformation through outsourcing. Strategy & Leadership. 30. 23-28. 10.1108/10878570210435342.
+[^4]: Shrivastava, Suprika & Date, Hema. (2010). Distributed Agile Software Development: A Review. J Comput Sci Eng. 1.
+[^5]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
+
