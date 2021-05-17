@@ -75,11 +75,11 @@ This section presumes some knowledge of Scrum, if you have not heard or ever use
 
 Despite the huge improvements in technology over the recent decade, there is no more efficient or effective method of conveying information within a development team than face to face conversation[^6]. With this in mind, it is important that where possible your software team is able to meet face to face at least once. This allows the team to integrate, and feel a physical connection to the team, rather than segregated remotely, so the team can focus on providing value to the customers. 
 
-When your team does communicate remotely, it is far better to communicate asynchronously through mediums like Slack for quick fire and respond questions; This is better than emails, which have a tendancy to build up and not warrant a quick response. This constant communication allows the team to feel focused on the task, as well as connected to the team as if they were next to eachother in the office.
+When your team does communicate remotely, it is far better to **communicate asynchronously through mediums like Slack** for quick fire and respond questions; This is better than emails, which have a tendancy to build up and not warrant a quick response. This constant communication allows the team to feel focused on the task, as well as connected to the team as if they were next to eachother in the office.
 
-In addition, it helps to use the same tools universally across all the teams, no matter where they are based. This means that everyone can help each other, as well as reducing any mentality difference between the teams.
+In addition, it helps to **use the same tools universally across all teams**, no matter where they are based. This means that everyone can help each other, as well as reducing any mentality difference between the teams.
 
-Finally, when meetings are performed remotely, using video chat is much better than purely voice or textual chat, as it allows people to see eachother and bring a sense of closeness to the members. 
+Finally, when meetings are performed remotely, **using video chat is much better than purely voice or textual chat**, as it allows people to see eachother and bring a sense of closeness to the members. 
 
 ### Navigating differences
 
