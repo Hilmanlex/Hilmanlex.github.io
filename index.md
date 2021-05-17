@@ -87,6 +87,10 @@ Working in a distributed team often means you need to overcome certain differenc
 
 ### Time
 
+When teams are located across the globe, time differences are inevitable. As a result, this means that some teams will not overlap much during the working day. This means that communication is key, especially a focus on Scrum methods, so that hand overs between the teams can be done efficiently. 
+
+**Follow the sun** is a workflow that is also used by some companies. This method means that teams are located across the globe such that there is always exactly one team working on a product at a given point in the day. The advantage is that product support is always available for the customer, and time to market theoretically can be reduced as progress is made at all times. However, a good hand off technique is required between the teams, otherwise progress will not be made as efficiently, as teams have to catch up each time a "shift" starts.
+
 ### Culture
 
 # Tooling
