@@ -3,6 +3,9 @@ Welcome to our blog detailing how you can implement best practices to effectivel
 Table of contents:
 
 - [What is a globally distributed software team?](#what-is-a-globally-distributed-software-team)
+  - [Why should I distribute my team?](#why-should-i-distribute-my-team)
+  - [Why shouldn't I distribute my team?](#why-shouldnt-i-distribute-my-team)
+  - [On the decision making level](#on-the-decision-making-level)
 - [Distributed working methods](#distributed-working-methods)
   - [Distributed Agile and Scrum](#distributed-agile-and-scrum)
   - [Navigating differences](#navigating-differences)
