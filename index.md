@@ -19,10 +19,10 @@ Table of contents:
 ---  
 
 ## What is a globally distributed software team?
-In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end (Shrivastava et al., 2010). As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
+In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end[^4]. As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
 
 ### Why should I distribute my team?
-Generally, one would consider going to distributed software development when you can no longer grow or sustain your company locally, which can be grouped into several core reasons (Shrivastava et al., 2010):
+Generally, one would consider going to distributed software development when you can no longer grow or sustain your company locally, which can be grouped into several core reasons[^4]:
 <ol>
 <li>The business market proximity advantages
 including knowledge of customers and local
