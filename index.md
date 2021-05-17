@@ -7,7 +7,7 @@ Table of contents:
   - [Distributed Agile and Scrum](#distributed-agile-and-scrum)
   - [Navigating differences](#navigating-differences)
     - [Time](#time)
-    - [Culture](#Culture)
+    - [Culture](#culture)
 - [Tooling](#tooling)
   - [Communication Tooling](#communication-tooling)
   - [Technical Tooling](#technical-tooling)
@@ -16,10 +16,10 @@ Table of contents:
 ---  
 
 ## What is a globally distributed software team?
-In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end (https://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf). As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
+In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end (Shrivastava et al., 2010). As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
 
 ### Why should I distribute my team?
-Generally, one would consider going to distributed software development when you can no longer grow or sustain your company locally, which can be grouped into several core reasons (https://arxiv.org/ftp/arxiv/papers/1006/1006.1955.pdf):
+Generally, one would consider going to distributed software development when you can no longer grow or sustain your company locally, which can be grouped into several core reasons (Shrivastava et al., 2010):
 <ol>
 <li>The business market proximity advantages
 including knowledge of customers and local
@@ -53,15 +53,15 @@ Because you can not find suitable vendor and want to avoid "small fish in a larg
 
 ### On the decision-making level
 
-Since distributed development is a decision that affects the whole company, it is necessary that the decision-makers really understand what and why they are doing. While it is possible for "cost savings" to be the only underlying reason for migration towards distributed development, generally, such type of vendor involvement is rare, short-lived and does not foster deep partnership level which can quickly lead to "blame game" and potential failure of projects or degradation of operational performance(https://www.sciencedirect.com/science/article/abs/pii/S1075425306001220). As such, executives should look beyond a way to save costs and engage in strategic or transformational partnership models as proposed by Ben L. Kedia and Somnath Lahiri (https://www.sciencedirect.com/science/article/pii/S1075425306001220). In that way, both parties will be able to benefit not only from the advantages that distributed development brings but also from the collaborative effort resulting in a successful product. As a result, all C-level executives from both parties should be actively involved in laying out their goals, key performance indicators, the focus of their collaboration, and most importantly transition and transformation plans (https://www.emerald.com/insight/content/doi/10.1108/10878570210435342/full/html).
+Since distributed development is a decision that affects the whole company, it is necessary that the decision-makers really understand what and why they are doing. While it is possible for "cost savings" to be the only underlying reason for migration towards distributed development, generally, such type of vendor involvement is rare, short-lived and does not foster deep partnership level which can quickly lead to "blame game" and potential failure of projects or degradation of operational performance (Kedia et al., 2007). As such, executives should look beyond a way to save costs and engage in strategic or transformational partnership models as proposed by Kedia et al. In that way, both parties will be able to benefit not only from the advantages that distributed development brings but also from the collaborative effort resulting in a successful product. As a result, all C-level executives from both parties should be actively involved in laying out their goals, key performance indicators, the focus of their collaboration, and most importantly transition and transformation plans (Linder et al., 2002).
 
-While these partnership models should work in every enterprise, there is some difference when we are considering only small and medium-sized enterprises (SMEs). SMEs are generally being forced to concentrate their core service activities within their enterprise boundaries while out-sourcing some of their development or operational tasks to low-cost countries in order to maintain a competitive advantage against large enterprises (https://core.ac.uk/download/pdf/301351534.pdf). As it was demonstrated in an explorative, qualitative research paper by Klimpke et al. (2011)(https://core.ac.uk/download/pdf/301351534.pdf), such a position entails different challenges for SMEs. Primarily, the flexibility provided by the vendor to rapidly increase the number of out-sourced developers is highly valued as opposed to cost savings being a driving force in large enterprises. Then there is an issue with cultural and domain knowledge differences which, according to Klimpke et al. (2011), are far more apparent in SMEs than in larger enterprise environments. To this end SMEs should aim at out-sourcing to a nearshore location as that would help to solve (or at least reduce) cultural and domain knowledge issues. While out-sourcing location does make a difference, SMEs can still benefit (perhaps even more so than larger enterprises) from using previously mentioned partnership models since a close relationship with a vendor would only benefit flexibility and responsiveness of development demand. 
+While these partnership models should work in every enterprise, there is some difference when we are considering only small and medium-sized enterprises (SMEs). SMEs are generally being forced to concentrate their core service activities within their enterprise boundaries while out-sourcing some of their development or operational tasks to low-cost countries in order to maintain a competitive advantage against large enterprises (Klimpke et al., 2011). As it was demonstrated in an explorative, qualitative research paper by Klimpke et al., such a position entails different challenges for SMEs. Primarily, the flexibility provided by the vendor to rapidly increase the number of out-sourced developers is highly valued as opposed to cost savings being a driving force in large enterprises. Then there is an issue with cultural and domain knowledge differences which, according to Klimpke et al. (2011), are far more apparent in SMEs than in larger enterprise environments. To this end SMEs should aim at out-sourcing to a nearshore location as that would help to solve (or at least reduce) cultural and domain knowledge issues. While out-sourcing location does make a difference, SMEs can still benefit (perhaps even more so than larger enterprises) from using previously mentioned partnership models since a close relationship with a vendor would only benefit flexibility and responsiveness of development demand. 
 
 ## Distributed working methods
 
 When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
-### Distributed Agile & Scrum
+### Distributed Agile and Scrum
 
 ### Navigating differences
 
@@ -76,4 +76,7 @@ When distributing your team, you often need to "distribute your workflows" as we
 ### Technical tooling
 
 ## References
-
+- Kedia, Ben & Lahiri, Somnath. (2007). International outsourcing of services: A partnership model. Journal of International Management. 13. 22-37. 10.1016/j.intman.2006.09.006. 
+- Klimpke, Lars & Kramer, Tommi & Betz, Stefanie & Nordheimer, Khrystyna. (2011). Globally distributed software development in small and medium-sized enterprises in Germany: Reasons, locations, and obstacles. 19th European Conference on Information Systems, ECIS 2011. 
+- Linder, Jane & Cole, Martin & Jacobson, Alvin. (2002). Business transformation through outsourcing. Strategy & Leadership. 30. 23-28. 10.1108/10878570210435342.
+- Shrivastava, Suprika & Date, Hema. (2010). Distributed Agile Software Development: A Review. J Comput Sci Eng. 1.
