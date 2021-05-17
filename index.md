@@ -1,3 +1,4 @@
+
 Welcome to our blog detailing how you can implement best practices to effectively work as a distributed software development team!
 
 Table of contents:
@@ -17,11 +18,10 @@ Table of contents:
 - [References](#references)
 
 ---  
+![](/images/stock_image.jpg)
+*[Image source](https://medium.com/serious-scrum/7-concrete-ways-to-improve-collaboration-in-remote-or-distributed-scrum-teams-7940fbaed52d)*
 
 ## What is a globally distributed software team?
-
-![](/images/stock_image.jpg)
-
 In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end[^4]. As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
 
 ### Why should I distribute my team?
@@ -65,13 +65,16 @@ While these partnership models should work in every enterprise, there is some di
 
 ## Working as a distributed team
 
-![](/images/scrum.png)
+
 
 When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
 ### Tips for Distributed Scrum
 
 This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^5].
+
+![](/images/scrum.png)
+*[Image source](https://www.visual-paradigm.com/scrum/why-scrum-difficult-to-master/)*
 
 Despite the huge improvements in technology over the recent decade, there is no more efficient or effective method of conveying information within a development team than face to face conversation[^6]. With this in mind, it is important that where possible your software team is able to meet face to face at least once. This allows the team to integrate, and feel a physical connection to the team, rather than segregated remotely, so the team can focus on providing value to the customers. 
 
