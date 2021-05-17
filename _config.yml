@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: How To Distribute Your Software Development Team
 description: Alexander Walker, Mantas Zdanavičius & Hilco van der Wilk
+markdown: kramdown
