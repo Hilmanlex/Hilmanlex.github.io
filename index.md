@@ -7,7 +7,7 @@ Table of contents:
   - [Why shouldn't I distribute my team?](#why-shouldnt-i-distribute-my-team)
   - [On the decision making level](#on-the-decision-making-level)
 - [Distributed working methods](#distributed-working-methods)
-  - [Distributed Agile and Scrum](#distributed-agile-and-scrum)
+  - [Distributed Agile and Scrum](#distributed-scrum)
   - [Navigating differences](#navigating-differences)
     - [Time](#time)
     - [Culture](#culture)
@@ -64,7 +64,9 @@ While these partnership models should work in every enterprise, there is some di
 
 When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
-### Distributed Agile and Scrum
+### Distributed Scrum
+
+This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^1]
 
 ### Navigating differences
 
@@ -77,6 +79,8 @@ When distributing your team, you often need to "distribute your workflows" as we
 ### Communication tooling
 
 ### Technical tooling
+
+[^1]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
 
 ## References
 - Kedia, Ben & Lahiri, Somnath. (2007). International outsourcing of services: A partnership model. Journal of International Management. 13. 22-37. 10.1016/j.intman.2006.09.006. 
