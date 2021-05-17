@@ -19,6 +19,9 @@ Table of contents:
 ---  
 
 ## What is a globally distributed software team?
+
+![](/images/stock_image.jpg)
+
 In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits and potential issues with no guarantee that it will be beneficial in the end[^4]. As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large-and-small to medium-size enterprises, and potential solutions through different development and communication methods supported by technical tooling.
 
 ### Why should I distribute my team?
@@ -61,6 +64,8 @@ Since distributed development is a decision that affects the whole company, it i
 While these partnership models should work in every enterprise, there is some difference when we are considering only small and medium-sized enterprises (SMEs). SMEs are generally being forced to concentrate their core service activities within their enterprise boundaries while out-sourcing some of their development or operational tasks to low-cost countries in order to maintain a competitive advantage against large enterprises. As it was demonstrated in an explorative, qualitative research paper by Klimpke et al.[^2], such a position entails different challenges for SMEs. Primarily, the flexibility provided by the vendor to rapidly increase the number of out-sourced developers is highly valued as opposed to cost savings being a driving force in large enterprises. Then there is an issue with cultural and domain knowledge differences which, according to Klimpke et al., are far more apparent in SMEs than in larger enterprise environments. To this end SMEs should aim at out-sourcing to a nearshore location as that would help to solve (or at least reduce) cultural and domain knowledge issues. While out-sourcing location does make a difference, SMEs can still benefit (perhaps even more so than larger enterprises) from using previously mentioned partnership models since a close relationship with a vendor would only benefit flexibility and responsiveness of development demand. 
 
 ## Working as a distributed team
+
+![](/images/scrum.png)
 
 When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
