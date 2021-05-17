@@ -65,8 +65,6 @@ While these partnership models should work in every enterprise, there is some di
 
 ## Working as a distributed team
 
-
-
 When distributing your team, you often need to "distribute your workflows" as well. Many software teams already use LEAN and Agile working methods for their projects, however, some adjustments and focuses change when moving to a distributed setting. In this section, we will have a look at how distributed agile and scrum should be set up, and how the impact of common issues present in distributed teams can be reduced, such as time and cultural differences. 
 
 ### Tips for Distributed Scrum
@@ -74,7 +72,7 @@ When distributing your team, you often need to "distribute your workflows" as we
 This section presumes some knowledge of Scrum, if you have not heard or ever used Scrum, we recommend you read the Scrum guide first[^5].
 
 ![](/images/scrum.png)
-*[Image source](https://www.visual-paradigm.com/scrum/why-scrum-difficult-to-master/)*
+*Scrum framework [Image source](https://www.visual-paradigm.com/scrum/why-scrum-difficult-to-master/)*
 
 Despite the huge improvements in technology over the recent decade, there is no more efficient or effective method of conveying information within a development team than face to face conversation[^6]. With this in mind, it is important that where possible your software team is able to meet face to face at least once. This allows the team to integrate, and feel a physical connection to the team, rather than segregated remotely, so the team can focus on providing value to the customers. 
 
