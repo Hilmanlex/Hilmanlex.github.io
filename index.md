@@ -95,13 +95,36 @@ Follow the sun development, although on paper sounds like a good system, in prac
 
 ### Culture
 
-Cultural differences are also very important to overcome in globally distributed software engineering. Different countries have vastly different cultures, which extends far into the work place. In order to reduce the effect of cultural differences, it helps to have open minded employees, who are willing to learn and are accepting of other cultures. It also helps to educate teams about the potential cultural differences, and by inviting teams to other offices, this helps expose the teams to other cultures.  
+Different countries have vastly different cultures, which extends far into the work place. In order to reduce the effect of cultural differences, it helps to have open minded employees, who are willing to learn and are accepting of other cultures. It also helps to educate teams about the potential cultural differences, and by inviting teams to other offices, this helps expose the teams to other cultures.  
 
 # Tooling
+When the choice is made to globally distribute software engineering capacities, the difficulties that arise can be mitigated to some extent by using the proper tools. At the time of writing this, tooling has made an enormous leap forward incited by the Covid-19 pandemic. In this section, we will have a look at how tooling can be used to assist in communication and coordination using modern tools.
 
-## Communication tooling
+## In the past
+A little over two decades ago, pair progamming did not exist as a concept because it was not notable at all. Software engineers would almost exclusively work in close proximity[^7]. This is no longer the reality and it can be argued that improved communication and coordination tools made this possible. Web conference and instant chat messanging tools replaced emails and made synchronous communication over large distances possible. While these became commonplace 15 years ago and still form the basis of current digital communication, they have greatly improved in recent years.
 
-## Technical tooling
+On the other hand, coordination tools specifically designed for software engineers were still at its infancy two decades ago. While version control software is nearly as old as software itself, additional tools to work together efficiently were still lacking. Early research noted this problem and focussed on visualising what others were working on[^8], in attempt to have a more continuous form of coordination instead of relying on formal processes.
+
+## Modern day tools
+Luckily for us as software engineers, there is currently an abundance of tools available to support distributed communication and coordination. Below we will describe some catagories of these tools and discuss what problems to do and do not solve. Note that a common denominator between these tools is that they are trying to offer a all-in-one solution, so there is some overlap between the catagories of problems the tools try to tackle.
+
+### Messaging platforms
+Instant messaging tools such as Slack and Mattermost form the basis of easy and fast messenging for many organisations today. Frequent communication at distance can be achieved by these tools[^9], which is important for distributed software engineering to work. There are some caveats however. The same study shows that a small portion of experienced employees make up for a great portion of the messages. Both language proficiency and experience with use are factors of how likely employees are to use these platforms. Therefore, it is recommended to have clear guidelines and instructions of how and when to use them.
+
+### Video conference applications
+While messaging platforms offer an easy way of frequent communication, they are vastly different from video meetings in the way people interact with each other. Emotions are expressed through emoticons in the former while the latter offers visual and audible ones. There are many different popular tools such as Zoom, Teams and WebEx that are primarily focussed on video meetings.
+
+However, people that would normally happily walk past someones office to have a quick chat can be hesitant to set up a video meeting. While this can be due to lack of experience, it is often because this includes messaging eachother beforehand and agreeing on a time before the video meeting actually takes place. Using messaging platforms with in-built video meeting functionalities can increase the chance of unscheduled meetings[^10]. Therefore, we would recommend choosing a messaging platform with in-built video meeting functionalities.
+
+### DevOps lifecycle tools
+DevOps lifecycle tools attempt to incorporate many of the tooling needed for the entirety of software development and IT operations in one tool. It is incredible how fast these have improved and have been adapted. While these tools started emerging around 2010, they are now the key to collaboration for many IT-driven companies. They are especially well-suited for distributed software engineering because they offer a centralized, transparent system of a large portion of an organisation's operations. This improves coordination because what others are working on is visible in near-realtime.
+
+GitLab is the prime example of this - being a remote-only distributed software company themselves - they use their own tool for best practices for globally distributed software engineering.
+
+### Conclusion
+
+Neither of these tools currently solves all problems regarding communication and coordination. For example, while DevOps lifecycle tools are great for coordination, they are usually used asynchronous in communication. The opposite holds for messaging platforms and video conference applications. Therefore, we recommend using a combination of these tools to work efficiently during distributed software engineering.
+
 
 # References
 [^1]: Kedia, Ben & Lahiri, Somnath. (2007). International outsourcing of services: A partnership model. Journal of International Management. 13. 22-37. 10.1016/j.intman.2006.09.006. 
@@ -115,3 +138,12 @@ Cultural differences are also very important to overcome in globally distributed
 [^5]: [Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 
 [^6]: [Agile Manifesto](https://agilemanifesto.org/principles.html)
+
+[^7]: Thissen, M., Page, J.M., Bharathi, M.C., & Austin, T.L. (2007). Communication tools for distributed software development teams. SIGMIS CPR '07.
+
+[^8]: Redmiles, David. (2007). Continuous coordination: A new paradigm to support globally distributed software development projects. Wirtschaftsinformatik. 49. S28-S38.
+
+[^9]: Stray, V., Moe, N.B., & Noroozi, M. (2019). Slack Me If You Can! Using Enterprise Social Networking Tools in Virtual Agile Teams. 2019 ACM/IEEE 14th International Conference on Global Software Engineering (ICGSE), 111-121.
+
+[^10]: Stray, V., & Moe, N.B. (2020). Understanding coordination in global software engineering: A mixed-methods study on the use of meetings and Slack. ArXiv, abs/2007.02328.
+
