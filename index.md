@@ -30,26 +30,21 @@ In ever-growing IT industry companies for quite some time have embraced the prac
 ## Why should I distribute my team?
 Generally, one would consider going to distributed software development when you can no longer grow or sustain your company locally, which can be grouped into several core reasons[^4]:
 <ol>
-<li>The **business market proximity advantages**
-including knowledge of customers and local
-conditions.</li>
-<li>Pressure to improve time-to-market by using timezone differences and having round-the-clock
-development.</li>
-<li>Create a pool of globally available skilled resources
-to develop software in reduced cost.</li>
-<li>Distribution also minimizes the risk in case of
-natural catastrophes and other events.</li>
+  <li>The <b>business market proximity advantages</b> including knowledge of customers and local conditions.</li>
+  <li>Pressure to <b>improve time-to-market</b> by using timezone differences and having round-the-clock development.</li>
+  <li>Create a pool of globally available skilled resources to <b>develop software in reduced cost</b>.</li>
+  <li>Distribution also <b>minimizes the risk</b> in case of natural catastrophes and other events.</li>
 </ol>
 
-While these benefits definitely look alluring one must also consider potential drawbacks and high initial investment costs reflected as monetary costs, time delays, and potential management overhead. As such, globally distributed development should be treated as a double-edged sword that can bring great benefits, but if it is mismanaged and done incorrectly it can not only add large communication and management overhead but can result in a steep increase in expenses with little revenue gain or overall benefit to the company. These dangers and potential solutions how to avoid them will be covered in the following sections.
+While these benefits definitely looks alluring, one must also consider potential drawbacks and high initial investment costs which are reflected as monetary costs, time delays, and management overhead. As such, globally distributed development should be treated as a double-edged sword that can bring great benefits as well as issues. If it is mismanaged and done incorrectly it can not only add large communication and management overhead but can result in a steep increase in expenses with little revenue gain. These dangers and potential solutions how to avoid them will be covered in the following sections.
 
 ## Why shouldn't I distribute my team?
 
-Naturally, if you do not fit in previously listed reasons to distribute your team then perhaps you should not do it. But even then, when you do see yourself benefiting from distributed development, one should also consider legal implications. Perhaps the projects you are working on depends on highly sensitive data? Maybe the data is regulated by law and can not leave the country's borders? Or in the near future you will start working with such data? And then to what extent your current and future projects can benefit from distributed development? Even if your business is dealing with suitable projects for distributed development you should also analyze if you can support the initial overhead when transitioning towards distribution, and for how long. The answers to these questions should provide good insights into whether distribution is something worth considering.
+Naturally, if you do not fit in previously listed reasons to distribute your development effort then perhaps you should not do it. But even then, when you do see yourself benefiting from distributed development, one should also consider legal implications. Perhaps the projects you are working on depends on highly sensitive data? Maybe the data is regulated by law and can not leave the country's borders? Or in the near future you will start working with such data? And then to what extent your current and future projects can benefit from distributed development? Even if your business is dealing with suitable projects for distributed development you should also analyze if you can support the initial overhead when transitioning towards distribution, and for how long. The answers to these questions should provide good insights into whether distribution is something worth considering.
 
-Then there is a matter of customer base and quality control. If your customers are found locally then you need to consider the potential quality change of your product, and if you really can ensure that transition will not affect customer expectations. Additionally, if you can not find a suitable vendor and want to avoid "small fish in a large pond" situation when dealing with off-shore vendors, then you should also avoid moving towards distributed development or at least consider nearshore options. Finally, one might also want to consider choosing remote locations with the potential to attract new clients, if possible. 
+Additionaly, there is a matter of customer base and quality control. If your customers are found locally then you need to consider the potential quality change of your product, and if you really can ensure that transition will not affect customer expectations. Also, if you want to avoid "small fish in a large pond" situation and can not find a suitable vendor when dealing with off-shore vendors, then perhaps you should also avoid moving towards off-shore distributed development, or at least look at nearshore options. Finally, one might also want to consider choosing remote locations with the potential to attract new clients, if possible. 
 
-While all these considerations are equally important, they might not be as relevant to a large-scale enterprise as it is to a small one, and as such applicability of them might be different.
+While all these considerations are equally important, they <b>might not be as relevant to a large-scale enterprise as it is to a small one</b>, and as such applicability of them might be different.
 
 <!---
 Because you have no issues with resources
