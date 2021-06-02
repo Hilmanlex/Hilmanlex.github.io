@@ -17,15 +17,15 @@ Table of contents:
   - [Modern day tools](#modern-day-tools)
     - [Messaging platforms](#messaging-platforms)
     - [Video conference applications](#video-conference-applications)
-    - [Devops lifecycle tools](#devops-lifecycle-tools)
-    - [Conclusion](#conclusion)
+    - [DevOps lifecycle tools](#devops-lifecycle-tools)
+    - [Our tooling recommendation](#our-tooling-recommendation)
 - [References](#references)
 
 ![](/images/stock_image.jpg)
 *[Source](https://medium.com/serious-scrum/7-concrete-ways-to-improve-collaboration-in-remote-or-distributed-scrum-teams-7940fbaed52d)*
 
 # What is a globally distributed software team?
-In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits of contenious development as well as potential issues with no guarantee that it will be beneficial in the end[^4]. As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large and small enterprises, and potential solutions through different development and communication methods supported by technical tooling.
+In ever-growing IT industry companies for quite some time have embraced the practice of Globally Distributed Software Development. In essence, it means developing software products through collaboration and a combination of different teams or team members across multiple physical locations as opposed to traditional co-located development. Due to the ability to work remotely, distributed team members can live anywhere across the globe which brings both the benefits of contentious development as well as potential issues with no guarantee that it will be beneficial in the end[^4]. As such, we will try to dive deeper into the caveats of globally distributed software development, why one should and shouldn't distribute development, look into risk factors of such decision, both in large and small enterprises, and potential solutions through different development and communication methods supported by technical tooling.
 
 ## Why should I distribute my team?
 Generally, one would consider going to distributed software development when you can no longer grow or sustain your company locally, which can be grouped into several core reasons[^4]:
@@ -40,9 +40,9 @@ While these benefits definitely looks alluring, one must also consider potential
 
 ## Why shouldn't I distribute my team?
 
-Naturally, if you do not fit in previously listed reasons to distribute your development effort then perhaps you should not do it. But even then, when you do see yourself benefiting from distributed development, one should also consider legal implications. Perhaps the projects you are working on depends on highly sensitive data? Maybe the data is regulated by law and can not leave the country's borders? Or in the near future you will start working with such data? And then to what extent your current and future projects can benefit from distributed development? Even if your business is dealing with suitable projects for distributed development you should also analyze if you can support the initial overhead when transitioning towards distribution, and for how long. The answers to these questions should provide good insights into whether distribution is something worth considering.
+Naturally, if you do not fit in previously listed reasons to distribute your development effort then perhaps you should not do it. But even then, when you do see yourself benefiting from distributed development, one should also consider legal implications. Perhaps the projects you are working on depends on highly sensitive data? Maybe the data is regulated by law and can not leave the country's borders? Or in the near future you will start working with such data? And then to what extent your current and future projects can benefit from distributed development? Even if your business is dealing with suitable projects for distributed development you should also analyse if you can support the initial overhead when transitioning towards distribution, and for how long. The answers to these questions should provide good insights into whether distribution is something worth considering.
 
-Additionaly, there is a matter of customer base and quality control. If your customers are found locally then you need to consider the potential quality change of your product, and if you really can ensure that transition will not affect customer expectations. Also, if you want to avoid "small fish in a large pond" situation and can not find a suitable vendor when dealing with off-shore vendors, then perhaps you should also avoid moving towards off-shore distributed development, or at least look at nearshore options. Finally, one might also want to consider choosing remote locations with the potential to attract new clients, if possible. 
+Additionally, there is a matter of customer base and quality control. If your customers are found locally then you need to consider the potential quality change of your product, and if you really can ensure that transition will not affect customer expectations. Also, if you want to avoid "small fish in a large pond" situation and can not find a suitable vendor when dealing with off-shore vendors, then perhaps you should also avoid moving towards off-shore distributed development, or at least look at nearshore options. Finally, one might also want to consider choosing remote locations with the potential to attract new clients, if possible. 
 
 While all these considerations are equally important, they <b>might not be as relevant to a large-scale enterprise as it is to a small one</b>, and as such applicability of them might be different.
 
@@ -76,11 +76,11 @@ This section presumes some knowledge of Scrum, if you have not heard or ever use
 
 Despite the huge improvements in technology over the recent decade, there is no more efficient or effective method of conveying information within a development team than face to face conversation[^6]. With this in mind, it is important that where possible your software team is able to meet face to face at least once. This allows the team to integrate, and feel a physical connection to the team, rather than segregated remotely, so the team can focus on providing value to the customers. 
 
-When your team does communicate remotely, it is far better to **communicate asynchronously through mediums like Slack** for quick fire and respond questions; This is better than emails, which have a tendancy to build up and not warrant a quick response. This constant communication allows the team to feel focused on the task, as well as connected to the team as if they were next to eachother in the office.
+When your team does communicate remotely, it is far better to **communicate asynchronously through mediums like Slack** for quick fire and respond questions; This is better than emails, which have a tendency to build up and not warrant a quick response. This constant communication allows the team to feel focused on the task, as well as connected to the team as if they were next to each other in the office.
 
 In addition, it helps to **use the same tools universally across all teams**, no matter where they are based. This means that everyone can help each other, as well as reducing any mentality difference between the teams.
 
-Finally, when meetings are performed remotely, **using video chat is much better than purely voice or textual chat**, as it allows people to see eachother and bring a sense of closeness to the members. 
+Finally, when meetings are performed remotely, **using video chat is much better than purely voice or textual chat**, as it allows people to see each other and bring a sense of closeness to the members. 
 
 ## Navigating differences
 
@@ -92,7 +92,7 @@ When teams are located across the globe, time differences are inevitable. As a r
 
 **Follow the sun** is a workflow that is also used by some companies. This method means that teams are located across the globe such that there is always exactly one team working on a product at a given point in the day. The advantage is that product support is always available for the customer, and time to market theoretically can be reduced as progress is made at all times. However, a good hand off technique is required between the teams, otherwise progress will not be made as efficiently, as teams have to catch up each time a "shift" starts.
 
-Follow the sun development, although on paper sounds like a good system, in practice is very difficult to successfully acheive, due to the reliance on good hand offs. Generally, the best way at reducing the impact of time difference is to increase the overlap between the teams, such that meetings and communication that needs to be performed between teams, has enough time to do so. This can be maximised by outsourcing to countries that have a time zone that can maximise the overlap with the other teams.
+Follow the sun development, although on paper sounds like a good system, in practice is very difficult to successfully achieve, due to the reliance on good hand offs. Generally, the best way at reducing the impact of time difference is to increase the overlap between the teams, such that meetings and communication that needs to be performed between teams, has enough time to do so. This can be maximised by outsourcing to countries that have a time zone that can maximise the overlap with the other teams.
 
 ### Culture
 
@@ -102,29 +102,39 @@ Different countries have vastly different cultures, which extends far into the w
 When the choice is made to globally distribute software engineering capacities, the difficulties that arise can be mitigated to some extent by using the proper tools. At the time of writing this, tooling has made an enormous leap forward incited by the Covid-19 pandemic. In this section, we will have a look at how tooling can be used to assist in communication and coordination using modern tools.
 
 ## In the past
-A little over two decades ago, pair progamming did not exist as a concept because it was not notable at all. Software engineers would almost exclusively work in close proximity[^7]. This is no longer the reality and it can be argued that improved communication and coordination tools made this possible. Web conference and instant chat messanging tools replaced emails and made synchronous communication over large distances possible. While these became commonplace 15 years ago and still form the basis of current digital communication, they have greatly improved in recent years.
+A little over two decades ago, pair programming did not exist as a concept because it was not notable at all. Software engineers would almost exclusively work in close proximity[^7]. This is no longer the reality and it can be argued that improved communication and coordination tools made this possible. Web conference and instant chat messaging tools replaced emails and made synchronous communication over large distances possible. While these became commonplace 15 years ago and still form the basis of current digital communication, they have greatly improved in recent years.
 
 On the other hand, coordination tools specifically designed for software engineers were still at its infancy two decades ago. While version control software is nearly as old as software itself, additional tools to work together efficiently were still lacking. Early research noted this problem and focussed on visualising what others were working on[^8], in attempt to have a more continuous form of coordination instead of relying on formal processes.
 
 ## Modern day tools
-Luckily for us as software engineers, there is currently an abundance of tools available to support distributed communication and coordination. Below we will describe some catagories of these tools and discuss what problems to do and do not solve. Note that a common denominator between these tools is that they are trying to offer a all-in-one solution, so there is some overlap between the catagories of problems the tools try to tackle.
+Luckily for us as software engineers, there is currently an abundance of tools available to support distributed communication and coordination. Below we will describe some categories of these tools and discuss what problems to do and do not solve. Note that a common denominator between these tools is that they are trying to offer a all-in-one solution, so there is some overlap between the categories of problems the tools try to tackle.
 
 ### Messaging platforms
-Instant messaging tools such as Slack and Mattermost form the basis of easy and fast messenging for many organisations today. Frequent communication at distance can be achieved by these tools[^9], which is important for distributed software engineering to work. There are some caveats however. The same study shows that a small portion of experienced employees make up for a great portion of the messages. Both language proficiency and experience with use are factors of how likely employees are to use these platforms. Therefore, it is recommended to have clear guidelines and instructions of how and when to use them.
+Instant messaging tools such as Slack and Mattermost form the basis of easy and fast messaging for many organisations today. Frequent communication at distance can be achieved by these tools[^9], which is important for distributed software engineering to work. There are some caveats however. The same study shows that a small portion of experienced employees make up for a great portion of the messages. Both language proficiency and experience with use are factors of how likely employees are to use these platforms. Therefore, it is recommended to have clear guidelines and instructions of how and when to use them.
 
 ### Video conference applications
 While messaging platforms offer an easy way of frequent communication, they are vastly different from video meetings in the way people interact with each other. Emotions are expressed through emoticons in the former while the latter offers visual and audible ones. There are many different popular tools such as Zoom, Teams and WebEx that are primarily focussed on video meetings.
 
-However, people that would normally happily walk past someones office to have a quick chat can be hesitant to set up a video meeting. While this can be due to lack of experience, it is often because this includes messaging eachother beforehand and agreeing on a time before the video meeting actually takes place. Using messaging platforms with in-built video meeting functionalities can increase the chance of unscheduled meetings[^10]. Therefore, we would recommend choosing a messaging platform with in-built video meeting functionalities.
+However, people that would normally happily walk past someone's office to have a quick chat can be hesitant to set up a video meeting. While this can be due to lack of experience, it is often because this includes messaging eachother beforehand and agreeing on a time before the video meeting actually takes place. Using messaging platforms with in-built video meeting functionalities can increase the chance of unscheduled meetings[^10]. Therefore, we would recommend choosing a messaging platform with in-built video meeting functionalities.
 
 ### DevOps lifecycle tools
-DevOps lifecycle tools attempt to incorporate many of the tooling needed for the entirety of software development and IT operations in one tool. It is incredible how fast these have improved and have been adapted. While these tools started emerging around 2010, they are now the key to collaboration for many IT-driven companies. They are especially well-suited for distributed software engineering because they offer a centralized, transparent system of a large portion of an organisation's operations. This improves coordination because what others are working on is visible in near-realtime.
+DevOps lifecycle tools attempt to incorporate many of the tooling needed for the entirety of software development and IT operations in one tool. It is incredible how fast these have improved and have been adapted. While these tools started emerging around 2010, they are now the key to collaboration for many IT-driven companies. They are especially well-suited for distributed software engineering because they offer a centralized, transparent system of a large portion of an organisation's operations. This improves coordination because what others are working on is visible in near real-time.
 
 GitLab is the prime example of this - being a remote-only distributed software company themselves - they use their own tool for best practices for globally distributed software engineering.
 
-### Conclusion
+### Our tooling recommendation
 
 Neither of these tools currently solves all problems regarding communication and coordination. For example, while DevOps lifecycle tools are great for coordination, they are usually used asynchronous in communication. The opposite holds for messaging platforms and video conference applications. Therefore, we recommend using a combination of these tools to work efficiently during distributed software engineering.
+
+# A final word
+
+In general, it is difficult to successfully distribute your software development team. The first thing you should look at, is whether it is right for your use case. You and your decision makers, need to look into the the varying different costs and account for the many difficulties that can be encountered when offshoring and distributing the teams. If you decide it is right for your company, then a big focus on communication is required. 
+
+There are frameworks such as distributed Scrum that should be utilised to improve workflows when working distributed, and allow all members to feel like a team, and focused on delivering to the customers.
+
+Luckily, in the modern age, there are communication tools to reduce the "distance" between your distributed team, as well as automation methods to reduce issues on the software level. 
+
+We hope that you found our blog interesting and insightful!
 
 
 # References
