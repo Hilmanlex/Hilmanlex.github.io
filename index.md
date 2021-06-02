@@ -19,6 +19,7 @@ Table of contents:
     - [Video conference applications](#video-conference-applications)
     - [DevOps lifecycle tools](#devops-lifecycle-tools)
     - [Our tooling recommendation](#our-tooling-recommendation)
+- [A final word](#a-final-word)
 - [References](#references)
 
 ![](/images/stock_image.jpg)
